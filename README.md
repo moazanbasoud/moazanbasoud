@@ -5,7 +5,7 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://moazanbasoud.io)
 
-<img align="right" alt="Coding" width="350" src="https://www.bloomberg.com/graphics/2020-how-coronavirus-impacts-climate-change/img/us-ortho-march.gif">
+<img align="right" alt="Coding" width="325" src="https://www.bloomberg.com/graphics/2020-how-coronavirus-impacts-climate-change/img/us-ortho-march.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moazanbasoud" alt="moazanbasoud" /></a> </p>
 
