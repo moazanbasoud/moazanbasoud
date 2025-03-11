@@ -1,7 +1,7 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://moazanbasoud.io)
 
 <h1 align="center">Hi 👋, I'm Moazan Basoud Ibn E Tariq</h1>
-<h3 align="center">I am a Software Engineer from Comsats University Islamabad</h3>
+<h3 align="center">I am a Software Engineer from Huazhong University of Science and Technology</h3>
 
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://moazanbasoud.io)
 
